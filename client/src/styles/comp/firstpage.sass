@@ -1,0 +1,413 @@
+.colum-3
+  float: left
+  width: 33.333%
+  +_1000
+    width: 50%
+  +_768
+    width: 100%
+.colum-2
+  float: left
+  width: 50%
+  +_1000
+    width: 100%
+.colum-3-top-footer
+  float: left
+  width: 33.333%
+  +_768
+    width: 100%
+.colum-3-footer
+  float: left
+  width: 33.333%
+  +_1000
+    width: 100%
+
+
+.firstpage
+  float: left
+
+.firstscreen
+  float: left
+  width: 100vw
+  height: calc(100vh - 115px)
+  background: url('./styles/img/fs-bg.jpg')
+  background-size: cover
+  background-position: center center
+  padding-top: 65px
+  +_1280
+    padding-left: 50px
+    height: 500px
+    padding-top: 20px
+  +_768
+    padding-left: 0
+    padding: 0 10px
+    padding-top: 30vh
+    height: 100vh
+    background: url('./styles/img/fs-bg-mobile.jpg')
+    background-size: cover
+    background-position: center center
+    
+  
+.fs-title
+  font-size: 50px
+  font-weight: bold
+  position: relative
+  z-index: 0
+  padding-top: 100px
+  width: 50%
+  text-transform: uppercase
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)
+  +_1000
+    font-size: 36px
+    width: 40%
+  +_768
+    padding: 0 40px
+    font-size: 60px
+    box-sizing: border-box
+    width: 100vw
+    text-align: center
+  +_650
+    width: 100%
+    padding: 0 50px
+    font-size: 42px
+    padding-bottom: 30px
+  +_480
+    font-size: 32px
+    padding: 0 10px
+    padding-bottom: 30px
+  +_375
+    font-size: 24px
+
+.fs-subtitle
+  font-size: 21px
+  width: 40%
+  padding-top: 10px
+  z-index: 0
+  font-weight: 500
+  position: relative
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)
+  +_1200
+    width: 45%
+  +_1000
+    width: 40%
+    font-size: 18px
+  +_768
+    box-sizing: border-box
+    width: 100vw
+    padding: 0 40px
+    padding-top: 40px
+    font-size: 28px
+    text-align: center
+  +_650
+    width: 100%
+    font-size: 24px
+  +_480
+    font-size: 18px
+    padding: 0 10px
+
+.fs-text-container
+  color: $bg
+  width: 100%
+  padding-left: calc((100vw - 1200px)/2)
+  padding-right: calc((100vw - 1200px)/2)
+  text-align: left
+  position: relative
+  z-index: 0
+  +_768
+    padding: 0
+
+.info-container
+  margin: 10px
+  height: 300px
+  border-radius: 10px
+  box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.21)
+  position: relative
+.info-1
+  background: url('./styles/img/img-placeholder-2.jpg')
+  background-size: cover
+  background-position: center center
+.info-2
+  background: url('./styles/img/img-placeholder-4.jpg')
+  background-size: cover
+  background-position: center center
+.info-title
+  position: absolute
+  width: 70%
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)
+  font-size: 24px
+  font-weight: 600
+  color: $bg
+  bottom: 20px
+  left: 20px
+  +_1000
+    font-size: 36px
+  +_650
+    font-size: 32px
+  +_480
+    bottom: 45%
+    width: 90%
+    text-align: center
+.info-btn
+  position: absolute
+  width: 25%
+  height: 35px
+  background: $blue
+  font-weight: 500
+  cursor: pointer
+  color: $bg
+  bottom: 20px
+  padding-top: 5px
+  right: 20px
+  border-radius: 5px
+  text-align: center
+  +_480
+    width: 50%
+    right: 25%
+  &:hover
+    background: $blue_act
+
+
+
+.common-block
+  width: 100%
+  padding: 30px 0px
+  float: left
+.hww-item-container
+  padding: 10px
+.block-title
+  text-align: center
+  font-size: 36px
+  text-transform: uppercase
+  font-weight: bold
+  color: $title
+  padding-bottom: 35px
+  +_375
+    font-size: 28px
+.hww-item
+  padding: 6%
+  padding-top: 7%
+  background: $white
+  min-height: 225px
+  border-radius: 10px
+  box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.21)
+  transition: .1s ease
+  +_768
+    min-height: 240px
+  +_480
+    min-height: 400px
+  &:hover
+    transform: scale(1.03)
+
+.hww-img
+  float: left
+  min-height: 160px
+  width: 30%
+  +_768
+    width: 25%
+  +_650
+    width: 35%
+  +_480
+    text-align: center
+    width: 100%
+  img
+    width: 100%
+    heigth: auto
+    +_480
+      width: 50%
+    +_375
+      width: 70%
+    
+  
+.hww-text-container
+  width: 65%
+  float: right
+  +_768
+    width: 60%
+  +_480
+    padding-top: 40px
+    text-align: center
+    width: 100%
+.hww-title
+  font-size: 24px
+  color: $title
+  font-weight: bold
+  margin-bottom: 20px
+
+
+
+.review-btn-more
+  float: left
+  width: 45%
+  height: 40px
+  text-align: center
+  background: $blue
+  border-radius: 5px
+  padding-top: 7px
+  font-weight: 600
+  color: $bg
+  transition: .1s ease
+  cursor: pointer
+  &:hover
+    transform: scale(1.03)
+    background: $blue_act
+.review-btn-write
+  float: right
+  height: 40px
+  padding-top: 5px
+  font-weight: 600
+  border: 2px solid $blue
+  color: $blue
+  border-radius: 5px
+  width: 45%
+  text-align: center
+  transition: .1s ease
+  cursor: pointer
+  &:hover
+    border: 2px solid $blue_act
+    color: $blue_act
+    transform: scale(1.03)
+    
+
+.more-link-useful
+  font-size: 14px
+  font-weight: 500
+  position: relative
+  color: $white
+  padding: 2px 4px
+  border-radius: 3px
+  display: inline-block
+  cursor: pointer
+  transition: .2s ease
+  opacity: 0
+  transform: translateY(60px)
+  +_1000
+    transform: translateY(100px)
+  +_768
+    display: none
+  img
+    width: 18px
+    transition: .1s ease
+    height: auto
+  &:hover
+    img
+      transform: translateX(5px)
+.useful-item
+  border-radius: 10px
+  min-height: 350px
+  box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.21)
+  box-sizing: border-box
+  padding: 0 5%
+  color: $bg
+  overflow: hidden
+  cursor: pointer
+  &:hover
+    .more-link-useful
+      opacity: 1
+      transform: translateY(15px)
+      +_1000
+        transform: translateY(30px)
+.useful-title
+  font-size: 24px
+  font-weight: bold
+  padding-bottom: 15px
+  +_1000
+    font-size: 36px
+  +_480
+    font-size: 28px
+.useful-text-container
+  font-size: 14px
+  position: absolute
+  width: 80%
+  bottom: 12%
+  left: 7%
+  +_480
+    width: 100%
+    left: 0
+    box-sizing: border-box
+    padding: 0 7%
+
+
+.useful-item-container
+  position: relative
+  width: 100%
+  float: left
+  padding: 20px
+  overflow: hidden
+  +_480
+    padding: 5px
+
+
+.useful-btn-container
+  padding: 0px 38%
+  padding-top: 50px
+  +_1000
+    padding: 0px 25%
+    padding-top: 50px
+  +_650
+    padding: 0 10%
+    padding-top: 50px
+  +_480
+    padding: 0 0%
+    padding-top: 50px
+.useful-btn-more
+  float: left
+  width: 100%
+  height: 40px
+  text-align: center
+  background: $blue
+  border-radius: 5px
+  padding-top: 7px
+  font-weight: 600
+  color: $bg
+  transition: .1s ease
+  cursor: pointer
+  +_1000
+    padding-top: 10px
+    height: 45px
+  &:hover
+    background: $blue_act
+    transform: scale(1.03)
+
+
+.useful-1
+  background: url('./styles/img/img-placeholder-1.jpg')
+  background-size: cover
+  background-position: top center
+.useful-2
+  background: url('./styles/img/img-placeholder-2.jpg')
+  background-size: cover
+  background-position: top center
+.useful-3
+  background: url('./styles/img/img-placeholder-3.jpg')
+  background-size: cover
+  background-position: top center
+.useful-4
+  background: url('./styles/img/img-placeholder-4.jpg')
+  background-size: cover
+  background-position: top center
+
+
+.license-block
+  width: 100%
+  float: left
+  padding-bottom: 100px
+  img
+    width: 100%
+    height: auto
+
+.file-download-link
+  padding-top: 20px
+  color: $blue
+  font-size: 18px
+  text-decoration: underline
+  a
+    text-decoration: underline
+
+.review-container
+  min-height: 300px
+  width: 100%
+  float: left
+
+.loading
+  text-align: center
+  padding-top: 50px
+  opacity: 0.1

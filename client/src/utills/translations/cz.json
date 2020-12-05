@@ -1,0 +1,194 @@
+{
+  "Navbar": {
+    "TopNavbar": {
+      "1": "zavolejte nám",
+      "2": "Vstup"
+    },
+    "1": "Licence",
+    "2": "Partneři",
+    "3": "Recenze",
+    "4": "Kontakty",
+    "5": "O nás",
+    "6": "Shrnutí",
+    "Btn": "Zanechat životopis"
+  },
+  "Footer": {
+    "1": "Informace",
+    "2": "recenze",
+    "3": "Kontakty",
+    "4": "O nás",
+    "Copyright": "Všechna práva vyhrazena First Work Agency © 2020"
+  },
+  "Employer": {
+    "Input": {
+      "1": "název společnosti",
+      "2": "volné místo",
+      "3": "Popis volných pracovních míst"
+    },
+    "Title": "Vaše volné místo",
+    "btn": {
+      "1": "Odeslat"
+    }
+  },
+  "Firstpage": {
+    "Title": {
+      "1": "Práce pro cizince v Evropě",
+      "2": "Zaregistrujte se během několika minut a získejte příležitost pracovat s profesionály nebo se zapojit do technického projektu."
+    },
+    "Info": {
+      "1": "Licence a pojištění",
+      "2": "Naši partneři",
+      "btn": "více"
+    },
+    "HowWeWork": {
+      "Title": "Jak pracujeme",
+      "1": {
+        "Text": "řekněte nám o sobě, abychom pro vás našli nejlepší volná místa",
+        "Title": "Registrace"
+      },
+      "2": {
+        "Title": "Pracovní podmínky a ubytování",
+        "Text": "diskutujeme s vámi o pracovních a ubytovacích podmínkách"
+      },
+      "3": {
+        "Text": "Připravujeme pro vás kompletní balíček dokumentů a doprovázíme vás ve všech fázích získání pracovního víza",
+        "Title": "Vízum"
+      },
+      "4": {
+        "Text": "Zajišťujeme transfer z vaší země do místa zaměstnání",
+        "Title": "Transfer"
+      },
+      "5": {
+        "Text": "Budeme vám pomáhat po celou dobu práce",
+        "Title": "Podpora"
+      },
+      "6": {
+        "Text": "Garantujeme příjmy nad 15 tisíc hřiven",
+        "Title": "Práce"
+      }
+    },
+    "Review": {
+      "Title": "Recenze",
+      "More": "Přečtěte si více",
+      "1": {
+        "Text": "Spolupracoval s touto společností.Chci poděkovat za dobrý postoj a kvalitní výkon práce. Pomohli mi. Dokumenty jsem udělal ve stanovených termínech, odjel jsem ve stejném termínu, jak jsme se dohodli.",
+        "Title": "Igor Temošenko"
+      },
+      "2": {
+        "Text": "Dobrý Den! Vydávala vízum zde, volné místo! Manažeři v agentuře jsou skvělí vedoucí agentury velmi dobromyslný člověk! Přišla za nimi kancelář, osobně se bavili, popíjeli čaj. Po příjezdu jsem se setkal, před podpisem smluv vše podrobně vysvětlil a poskytl veškeré informace, dokonce ukázal fotografii z továrny. Balíček dokumentů udělal včas a já jsem již otevřel vízum, nebyly žádné problémy na velvyslanectví!",
+        "Title": "Zinovij Grigorenko"
+      },
+      "3": {
+        "Text": "Česko se rozhodlo slušně vydělat. Po vysoké škole dlouho nemohl sehnat práci ve svém městě.U nás v zemi je bohužel těžké najít práci bez zkušeností. Po krátkém hledání zaměstnání našel centrum. Na radu přátel se rozhodl jít na výdělky do Evropy, protože tam jsou skvělé platy a podmínky. Přátelé tuto společnost doporučili, věřil jsem jim a nikdy jsem nelitoval. Dostal jsem se do Česka, pomohl jsem s dokumenty a vybral si pohodlný program. Velmi vděčný!",
+        "Title": "Ludmila Nikolaevna"
+      },
+      "4": {
+        "Text": "Důvěryhodní přátelé radili, aby se obrátili na tuto společnost.пПоиск zaměstnání, jednání se zaměstnavatelem, shromažďování dokumentů, vyplňování dotazníků, příprava na посольству — není jednoduchá záležitost. Chtěl jsem udělat správnou věc. To je důležité, protože uděláte chybu, ztratíte spoustu času, nervů atd.  ppproces prošel úspěšně, dostal vízum a odjel do Česka pracovat pro masokombinát. Místo, kde jsem našel, je skvělé! Řádně připraveni na cestu, všichni řekli, vysvětlili podmínky smlouvy.Pech se na chvíli vrátil domů.N když se náhle rozhodl vrátit se do Česka, nebylo pochyb o tom, na koho se obrátit! Opět pomohla tato společnost. A tak jsem v Česku už čtyři měsíce. n  pspříčas za odvedenou práci! Moc si toho vážím.zbroj pro každého, kdo hledá!",
+        "Title": "Vitalij Glušakov"
+      },
+      "5": {
+        "Text": "Dobrý Den! Chci vám poděkovat, že jste mi pomohli odjet pracovat do Česka! Práce za peníze mi vyhovovala a hlavně, že jsem se nenudil. Zaplatili včas vše a v plné výši. ",
+        "Title": "Natalia Goltz"
+      },
+      "6": {
+        "Text": "Spolupracovala jsem s touto agenturou. Všechno bylo v pořádku, dokumenty byly připraveny ve stanovených termínech, vše bylo vysvětleno a naznačeno! Můžete sem jít za prací",
+        "Title": "Maxim Kormoránov"
+      },
+      "Btns": {
+        "1": "Více recenzí",
+        "2": "Napsat recenzi"
+      }
+    },
+    "Useful": {
+      "Title": "Užitečné informace",
+      "1": {
+        "Title": "Práva cizinců",
+        "Text": "Kolik cizinců může být v Česku? Může otevřít podnikání nebo koupit nemovitost? Co dělat a kdy? Na to všechno jsou odpovědi"
+      },
+      "2": {
+        "Title": "Licence",
+        "Text": ""
+      },
+      "3": {
+        "Title": "Partneři",
+        "Text": ""
+      },
+      "4": {
+        "Title": "Podmínky a povinnosti",
+        "Text": ""
+      },
+      "Btn": "Více užitečných informací"
+    }
+  },
+  "Success": {
+    "1": "Děkuji za registraci",
+    "2": "Naši manažeři vás budou kontaktovat, když pro vás najdeme vhodné místo"
+  },
+  "AboutUs": {
+    "Title": "O nás",
+    "1": "společnost First Work Agency se úspěšně zabývá oficiální zaměstnáváním občanů v zemích Evropské unie. Zabýváme se pouze legálním zaměstnáním. Spolupracujeme s mnoha zaměstnavateli, kteří poskytují velký výběr pracovních míst v různých oblastech. Naším hlavním úkolem je vybrat si pracovní místo, které vás bude zajímat, vzhledem k vašim příležitostem a přáním, a navíc vám poskytne vysoký příjem. Poskytujeme Vám kompletní balíček dokumentů pro vyřízení národního víza do zemí Evropy. Postup pro získání dokumentů je zcela legální a splňuje všechny normy platné legislativy požadované země EU.",
+    "2": "Důležitou výhodou naší společnosti je spokojenost zaručena software při hledání zaměstnání a získání podkladů pro podání na pracovní víza, která vám umožní ne jen žít a pohybovat se na národy Evropy, ale i legálně pracovat bez obav z kontrol migrační služby. V tomto ohledu Vám nabízíme vyřídit dokumenty. Podle kterých můžete legálně žít a pracovat v zemi. K vyřízení národních víz do Evropy je třeba přistupovat vážně a zodpovědně, poskytnout možné otázky. Praxe ukazuje, že ve většině případů je lepší obrátit se na profesionály než opravit chyby."
+  },
+  "Contacts": {
+    "Input": {
+      "1": "Jméno",
+      "2": "Email",
+      "3": "Vaše otázka ..."
+    },
+    "Btn": "Odeslat",
+    "Error": "vyplňte všechna povinná pole",
+    "Thank": {
+      "1": "otázka odeslána",
+      "2": "brzy vám odpoví náš manažer"
+    },
+    "Consent": "zasláním souhlasíte s Term of Service a Private Policy",
+    "Title": {
+      "1": "Máte nějaké otázky ?",
+      "2": "kontakty"
+    }
+  },
+  "Registration": {
+    "Title": "Registrace",
+    "btn": {
+      "1": "Odeslat"
+    },
+    "Consent": "zasláním souhlasíte s Term of Service a Private Policy",
+    "Input": {
+      "1": "Jméno, Příjmení",
+      "2": "Země",
+      "3": "datum narození",
+      "4": "Telefonní Číslo",
+      "5": "Pošta",
+      "6": "Pracovní zkušenosti",
+      "7": "dovednosti",
+      "8": "jazyky"
+    },
+    "Placeholder": {
+      "1": "Fio",
+      "6": "2 roky pracoval jako svářeč...",
+      "7": "řidič kategorie C A D",
+      "8": "Angličtina na konverzační úrovni..."
+    },
+    "Country": {
+      "Title": "Země",
+      "1": "Rusko",
+      "2": "Ukrajina",
+      "3": "Německo",
+      "4": "Ukrajina",
+      "5": "Polsko",
+      "6": "Česká republika"
+    }
+  },
+  "rights-of-foreigners": {
+    "title": "Práva cizinců: ",
+    "text": {
+      "1": "zaměstnávání cizinců v Česku je doprovázeno byrokracií - jak pro firmu, tak pro samotného zaměstnance. Českým zaměstnavatelům a zaměstnancům je dost jen se domluvit mezi sebou (podepsat pracovní smlouvu), pak se společnost podá informace o novém zaměstnanci na správu sociálního zabezpečení a zdravotní pojišťovnu.",
+      "2": "zaměstnávání cizinců a zákon",
+      "3": "Ministerstvo práce a sociálních věcí, je příslušným orgánem pro koordinaci integrační politiky cizinců v ČR. Na svých oficiálních stránkách navrhuje seznámit se s užitečnými informacemi o zaměstnávání cizinců v Česku. I když jsou podmínky pro zaměstnávání cizinců pro české zaměstnavatele i samotné zaměstnance přísnější a složitější, firmy a podnikatelé v Česku nadále přijímají cizince z Evropské unie i ze třetích zemí. Legislativní základnou v ČR pro základní pracovní podmínky cizinců je zákoník práce a Zákoník práce. Tyto a další doprovodné zákony určují, zda cizinec bude potřebovat povolení k zaměstnání a pobytu v ČR, nebo bude přijat k práci na právech českého občana.",
+      "4": "služba sociálního zabezpečení",
+      "5": "Tato služba se zabývá výběrem části daní z obyvatelstva a vydáváním různých druhů dávek, jako jsou důchody, mateřské a nemocenské. Rozděluje prostředky ze státní kasy mezi nízkopříjmové rodiny, vyplácí dávky v nezaměstnanosti a další. Každý zaměstnaný cizinec v Česku má nárok na úhradu kaucí ve třech fondech: nemocenské, důchodové a mateřské, a proto má každý z nás nárok i na tyto tři typy dávek. Tento typ daně za vás v Česku platí zaměstnavatel, z čistého výdělku se platí jen nepodstatná část. Částečnou úhradu pohledávky v Sociální fond zbaven zahraniční soukromí podnikatelé, respektive nemají právo následně přijímat a většina dávek, proto obvykle doporučujeme cizincům nejprve získat v Češtině status Trvalého bydliště (trvalého pobytu) a teprve pak se registrovat licenci individuálního podnikatele.",
+      "6": "Lékařský Fond",
+      "7": "v Česku je 8 zdravotních pojišťoven, které mají status státní. V zemi působí také řada komerčních společností, které poskytují pojišťovací služby včetně zdravotní. Zaměstnaní cizinci v Česku mají nárok na státní zdravotní pojištění. Takové pojištění výrazně překonává komerční pojištění ve všech parametrech. Státní pojištění pokrývá nejen preventivní opatření, vyšetření, prevenci, léčbu, rehabilitaci, mnoho léků, ale také léčbu neplodnosti a mnoho dalších nákladných lékařských vyšetření a léčby. Platba zdravotního pojištění v Česku je povinná. Za zaměstnance ji platí zaměstnavatel. Pokud člověk nemá peníze na zaplacení pojištění, musí předložit dokumenty v nezaměstnanosti nebo osvědčení, prokazující další důvody platební neschopnosti, a pak se stát обяжет Sociální fond platit ji za občana České republiky nebo cizince s dlouhodobým vízem v České republice."
+    }
+  }
+}

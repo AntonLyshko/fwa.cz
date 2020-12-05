@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://admin:0zzweFq2vSvEdKX6@firstworkagency-rlxbp.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "secretTocken"
+}

@@ -1,0 +1,183 @@
+.navbar_c
+  float: left
+  width: 100vw
+  min-height: 115px
+  padding-top: 5px
+  padding-left: calc((100vw - 1200px)/2)
+  padding-right: calc((100vw - 1200px)/2)
+  +_768
+    padding: 0
+    float: none
+    position: absolute
+    top: 0
+    left: 0
+.nav-bar-desktop
+  +_768
+    display: none
+
+.nav-top
+  float: left
+  width: 100%
+  min-height: 30px
+  border-bottom: 1px solid $border
+
+.employment
+  padding: 1px 5px
+  border-radius: 2px
+  cursor: pointer
+  &:hover
+    background: $hover
+
+.nav-top-item
+  text
+    padding-left: 10px
+
+.language-container
+  
+  padding-left: 40px
+  color: $text
+  position: relative
+  select
+    cursor: pointer
+    border: none !important
+    color: $text
+    background: none
+    outline: none
+    position: relative
+    box-shadow: none
+  option
+    cursor: pointer
+    background: $bg
+    color: $text
+    font-size: 14px
+    border: none !important
+    outline: none
+
+.nav-bar
+  position: relative
+  width: 100%
+  float: left
+  padding-top: 10px
+.nav-bar-item
+  text-align: center
+  width: 14%
+  float: left
+  padding-top: 22px
+  color: $title
+  font-weight: 500
+  +_1000
+    font-size: 14px
+    width: 12.5%
+.nav-bar-logo
+  width: 14%
+  float: left
+  +_1000
+    padding-top: 12px
+  img
+    width: 100%
+.nav-bar-btn
+  cursor: pointer
+  margin-top: 12px
+  float: right
+  width: 16%
+  height: 40px
+  background: $blue
+  border-radius: 5px
+  color: $bg
+  text-align: center
+  padding-top: 8px
+  font-weight: 500
+  +_1000
+    font-size: 14px
+    width: 22%
+  img
+    width: 20px
+    margin-right: 7px
+    transition: .1s ease
+  &:hover
+    background: $blue_act
+    img
+      transform: translateY(-2px)
+.nav-bar-item-text-container
+  display: inline-block
+  position: relative
+  cursor: pointer
+  &:hover
+    .nav-link-underline
+      width: 100%
+.nav-link-underline
+  transition: .1s ease
+  height: 3px
+  width: 0%
+  background: $blue
+  &.act
+    width: 100%
+
+.nav-bar-mobile
+  display: none
+  +_768
+    display: block
+.mobile-menu
+  color: $bg
+  width: 100vw
+  height: 100vh
+  position: fixed
+  z-index: 90
+  top: -100vh
+  left: 0
+  background: $blue_act
+  transition: .6s ease
+  opacity: 0
+  &.act
+    opacity: 1
+    transform: translateY(100vh)
+
+.mobile-logo
+  position: absolute
+  top: 15px
+  left: 15px
+  img
+    width: 150px
+.nav-top-mobile
+  padding-top: 30px
+  font-size: 24px
+  font-weight: 500
+  padding-bottom: 30px
+.nav-top-mobile
+  text-align: center
+  li
+    list-style: none
+.nav-mobile-item
+  font-size: 32px
+  font-weight: 600
+  text-align: center
+  padding: 10px 0px
+.menu-logo
+  width: 35vw
+  margin: 0 auto
+  padding-top: 3vh
+  img
+    width: 100%
+    text-align: center
+.mobile-trigger
+  position: absolute
+  top: 30px
+  right: 40px
+  z-index: 100
+.nav-languages
+  padding-top: 40px
+  width: 60vw
+  text-align: center
+  margin: 0 auto
+  select
+    font-size: 24px
+    color: $bg
+  option
+    text-align: center
+    font-size: 21px
+
+
+
+
+
+

@@ -1,0 +1,129 @@
+.page-title
+  width: 100%
+  float: left
+  font-size: 32px
+  font-weight: bold
+  text-align: center
+  padding-top: 40px
+  color: $title
+  padding-bottom: 10px
+  +_768
+    padding-top: 120px
+  
+.page-container
+  width: 100%
+  float: left
+  padding-top: 20px
+  border-top: 1px solid $border
+  min-height: 500px
+
+.sing-up-form
+  width: 70%
+  margin: 0 auto
+  padding: 0 15%
+  +_1200
+    padding: 0 10%
+  +_1000
+    padding: 0 5%
+  +_768
+    padding: 0 0%
+  +_650
+    width: 80%
+    padding: 0 0%
+  +_480
+    width: 95%
+    padding: 0 0%
+  input
+    width: 100%
+    border: 2px solid $title
+    border-radius: 10px
+    padding: 10px 8px
+    padding-left: 15px
+    background: none
+    margin-bottom: 10px
+  label
+    font-size: 14px
+    position: relative
+    top: 2px
+    left: 15px
+    font-weight: bold
+    text
+      color: #e42c2c
+  select
+    margin-bottom: 15px
+    width: 100%
+    border: 2px solid $title
+    border-radius: 10px
+    padding: 10px 8px
+    background: none
+  textarea
+    width: 100%
+    border: 2px solid $title
+    border-radius: 10px
+    padding: 10px 8px
+    padding-left: 15px
+    background: none
+    margin-bottom: 10px
+
+.react-datepicker-wrapper
+  width: 100%
+
+.form-btn-container
+  float: left
+  margin-bottom: 20px
+  .disclaimer
+    position: relative
+    font-size: 14px
+    font-weight: 500
+    text-align: center
+    +_768
+      width: 100%
+      left: 0
+  .form-btn
+    width: 50%
+    text-align: center
+    margin: 35px auto
+    position: relative
+    top: -5px
+    padding: 10px 20px
+    font-weight: bold
+    background: $yellow
+    color: $bg
+    border-radius: 15px
+    cursor: pointer
+    transition: .1s ease
+    +_1200
+      padding: 8px 10px
+    &:hover
+      background: $yellow-act
+    &:active
+      background: $yellow
+
+.error-alert
+  float: left
+  display: none
+  width: 100%
+  color: #e42c2c
+  text-align: center
+  position: relative
+  top: -30px
+
+
+.btn-login
+  width: 50%
+  margin: 0 auto
+  text-align: center
+  margin-top: 30px
+  margin-bottom: 100px
+  border-radius: 15px
+  position: relative
+  padding: 10px 20px
+  font-weight: bold
+  background: $yellow
+  color: $bg
+  cursor: pointer
+  transition: .1s ease
+  &:hover
+    background: $yellow-act
+  &:active
+    background: $yellow

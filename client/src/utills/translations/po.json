@@ -1,0 +1,181 @@
+{
+  "Navbar": {
+    "TopNavbar": {
+      "1": "Zadzwoń do nas",
+      "2": "dla pracodawcy"
+    },
+    "1": "Licencja",
+    "2": "Partnerzy",
+    "3": "Recenzje",
+    "4": "Kontakt",
+    "5": "O nas",
+    "6": "Podsumowanie",
+    "Btn": "Zostawić życiorys"
+  },
+  "Footer": {
+    "1": "Informacje",
+    "2": "recenzje",
+    "3": "Kontakt",
+    "4": "O nas",
+    "Copyright": "Wszelkie prawa zastrzeżone First Work Agency © 2020"
+  },
+  "Firstpage": {
+    "Title": {
+      "1": "Zatrudnienie w Europie",
+      "2": "Naszym głównym zadaniem jest wybrać pracę, która będzie dla Ciebie interesująca, biorąc pod uwagę twoje możliwości i życzenia, a także zapewni Ci stały dochód."
+    },
+    "Info": {
+      "1": "Licencje i ubezpieczenia",
+      "2": "Nasi partnerzy",
+      "btn": "więcej informacji"
+    },
+    "HowWeWork": {
+      "Title": "Jak pracujemy",
+      "1": {
+        "Title": "Podsumowanie",
+        "Text": "opowiedz nam o swoich doświadczeniach i preferencjach, abyśmy mogli znaleźć dla ciebie najlepsze oferty pracy."
+      },
+      "2": {
+        "Title": "Omówienie warunków",
+        "Text": "skontaktujemy się z Tobą i przedstawimy odpowiednie oferty pracy i warunki pracy. Wybierz pracę, która Ci odpowiada."
+      },
+      "3": {
+        "Title": "Uzyskanie wizy",
+        "Text": "zbieramy za ciebie pełny pakiet dokumentów i towarzyszymy Ci do uzyskania wizy"
+      },
+      "4": {
+        "Title": "Przeprowadzka i praca",
+        "Text": "zapewniamy transfer z Twojego kraju do miejsca pracy. Pomożemy Ci również osiedlić się w nowym miejscu."
+      }
+    },
+    "Review": {
+      "Title": "Recenzje",
+      "More": "Czytaj dalej",
+      "1": {
+        "Text": "współpracował z tą firmą.Chcę podziękować za dobre nastawienie i jakość wykonania pracy. Pomogli mi. Dokumenty złożyły mi się w wyznaczonym terminie, wyjechałem w tych samych terminach, co uzgodniono.",
+        "Title": "Igor Temoszenko"
+      },
+      "2": {
+        "Text": "Witaj! Wydałem wizę tutaj, wakat jest bezpłatny! Menedżerowie w agencji wspaniały szef Agencji jest bardzo dobroduszny człowiek! Przyszedłem do ich biura, rozmawiałem osobiście, piłem herbatę. Po przyjeździe zostałem powitany, przed podpisaniem umów wszystko wyjaśniono szczegółowo i podano wszystkie informacje, a nawet pokazano zdjęcie z fabryki. Pakiet dokumentów został wykonany na czas, a ja już otworzyłem wizę, nie było problemów w ambasadzie!",
+        "Title": "Zinowij Grigorenko"
+      },
+      "3": {
+        "Text": "Czechy wybrały, aby przyzwoicie zarabiać. Po studiach długo nie mógł znaleźć pracy w swoim mieście.W naszym kraju, niestety, trudno jest znaleźć pracę bez doświadczenia. Po krótkich poszukiwaniach zatrudnienia znalazł centrum. Za radą przyjaciół postanowił udać się na zarobki do Europy, ponieważ istnieją doskonałe pensje i warunki. Przyjaciele doradzali tej firmie, uwierzyłem im i nigdy nie żałowałem. Zostałem zaaranżowany w Czechach, pomogłem z dokumentami i wybrałem wygodny harmonogram. Bardzo wdzięczny!",
+        "Title": "Ludmiła Nikołajewna"
+      },
+      "4": {
+        "Text": "Zaufani przyjaciele radzili skontaktować się z tą firmą nwyszukiwanie miejsca pracy, negocjacje z pracodawcą, zbieranie dokumentów, wypełnianie kwestionariuszy, przygotowanie do ambasady nie jest prostą sprawą. Chciałem to naprawić. Jest to ważne, ponieważ popełniając błąd stracisz dużo czasu, nerwów itp.\nproces przeszedł pomyślnie, otrzymał wizę i wyjechał do Czech, aby pracować w fabryce mięsa. Znalazłem bardzo fajne miejsce! Prawidłowo przygotowany do podróży, wszystko powiedział, wyjaśnił warunki umowy. N kiedy nagle zdecydował się wrócić do Czech, nie było wątpliwości, do kogo się zwrócić! Znowu ta firma pomogła. I oto jestem w Czechach, od 4 miesięcy. Dziękuję za wykonaną pracę! Doceniam to",
+        "Title": "Witalij Głuszakow"
+      },
+      "5": {
+        "Text": "Witaj! Chcę podziękować za to, że pomogłeś wyjechać do pracy w Czechach! Wakat na pieniądze mnie zadowolił i najważniejsze, że nie oszukali. Płacili wszystko na czas i w całości. ",
+        "Title": "Natalia Goltz"
+      },
+      "6": {
+        "Text": "Współpracowałam z tą agencją. Wszystko było w porządku, dokumenty były gotowe w wyznaczonym terminie, wszystko wyjaśniono i podpowiedziano! Możesz tu ubiegać się o pracę",
+        "Title": "Maksim Kormoran"
+      },
+      "Btns": {
+        "1": "Więcej opinii",
+        "2": "Napisz recenzję"
+      }
+    },
+    "Useful": {
+      "Title": "Przydatne informacje",
+      "1": {
+        "Title": "Prawa cudzoziemców",
+        "Text": "Czechy to przyzwoity i bezpieczny kraj europejski. A dla przyzwoitości i bezpieczeństwa jest uważna policja i zestaw surowych zasad."
+      },
+      "2": {
+        "Title": "Warunki i obowiązki",
+        "Text": "Twoje prawa, warunki i obowiązki przez cały okres współpracy z nami. Zalecamy zapoznanie się"
+      },
+      "Btn": "Więcej przydatnych informacji"
+    }
+  },
+  "Success": {
+    "1": "Dziękujemy za rejestrację",
+    "2": "Nasi menedżerowie skontaktują się z tobą, gdy znajdziemy dla Ciebie odpowiednie stanowisko"
+  },
+  "AboutUs": {
+    "Title": "O nas",
+    "1": "Firma First Work Agency z powodzeniem zajmuje się oficjalny zatrudnieniem obywateli w krajach Unii Europejskiej. Zajmujemy się tylko legalnym zatrudnieniem. Współpracujemy z wieloma pracodawcami, którzy oferują szeroki wybór miejsc pracy w różnych dziedzinach. Naszym głównym zadaniem jest wybrać pracę, która będzie dla ciebie interesująca, biorąc pod uwagę twoje możliwości i życzenia, a także zapewni Ci wysokie dochody. Zapewniamy pełny pakiet dokumentów do rejestracji krajowej wizy do krajów Europy. Procedura uzyskiwania dokumentów jest w pełni legalna i spełnia wszystkie normy obowiązującego prawa właściwego kraju UE.",
+    "2": "Ważną zaletą naszej firmy jest zapewnienie zatrudnienia i uzyskanie dokumentów do ubiegania się o wizę roboczą, która pozwoli Ci nie tylko żyć i poruszać się po krajach Europy, ale także legalnie pracować bez obawy o kontrole usług migracyjnych. W związku z tym proponujemy Państwu sporządzenie dokumentów. Na których można legalnie żyć i pracować w kraju. Aby uzyskać krajową wizę do Europy, musisz podejść poważnie i odpowiedzialnie, przewidzieć możliwe problemy. Praktyka pokazuje, że w większości przypadków lepiej jest zwrócić się do profesjonalistów niż poprawiać błędy.",
+    "3": "U nas otrzymasz profesjonalną i szybką pomoc w znalezieniu pracy. Od momentu skontaktowania się z nami w naszej firmie pracuje z Tobą nasz menedżer, który zapewni Ci indywidualną pomoc i będzie towarzyszył całemu procesowi zatrudnienia: od sporządzania dokumentów do uzyskania wizy do przeprowadzki do miejsca pracy i rozwiązywania problemów mieszkaniowych. Nasi partnerzy w Twoim kraju pomogą ci uzyskać wizę na podstawie naszych dokumentów."
+  },
+  "Contacts": {
+    "Input": {
+      "1": "Nazwa",
+      "2": "Email",
+      "3": "Twoje pytanie ..."
+    },
+    "Btn": "Wyślij",
+    "Error": "Wypełnij wszystkie wymagane pola",
+    "Thank": {
+      "1": "Pytanie wysłane",
+      "2": "Wkrótce odpowie Ci nasz menedżer"
+    },
+    "Consent": "Wysyłając wyrażasz zgodę na Term of Service i Private Policy",
+    "Title": {
+      "1": "Jakieś pytania ?",
+      "2": "Kontakt"
+    }
+  },
+  "Registration": {
+    "Title": "Rejestracja",
+    "btn": {
+      "1": "Wyślij"
+    },
+    "Consent": "Wysyłając wyrażasz zgodę na Term of Service i Private Policy",
+    "Input": {
+      "1": "Imię, Nazwisko",
+      "2": "Kraj",
+      "3": "Data urodzenia",
+      "4": "Numer Telefonu",
+      "5": "Poczta",
+      "6": "Doświadczenie zawodowe",
+      "7": "Umiejętności",
+      "8": "Języki",
+      "9": "Twoje preferencje"
+    },
+    "Placeholder": {
+      "1": "imię i nazwisko",
+      "6": "przez 2 lata pracował jako spawacz...",
+      "7": "kierowca kategorii C i D",
+      "8": "angielski na poziomie konwersacyjnym...",
+      "9": "chcę pracować w dostawie"
+    },
+    "Country": {
+      "Title": "Państwo",
+      "1": "Russia",
+      "2": "Ukraine",
+      "3": "Germany",
+      "4": "Ukraine",
+      "5": "Poland",
+      "6": "Czech Republic"
+    }
+  },
+  "Employer": {
+    "Input": {
+      "1": "název společnosti",
+      "2": "volné místo",
+      "3": "Popis volných pracovních míst"
+    },
+    "Title": "Vaše volné místo",
+    "btn": {
+      "1": "Odeslat"
+    }
+  },
+  "rights-of-foreigners": {
+    "title": "Prawa cudzoziemców: ",
+    "text": {
+      "1": "Zatrudnieniu cudzoziemców w Czechach towarzyszy biurokracja-zarówno dla firmy, jak i dla samego pracownika. Czeskim pracodawcom i pracownikom wystarczy negocjować między sobą (podpisać Umowę o pracę), po czym firma złoży informacje o nowym pracowniku do urzędu Ubezpieczeń Społecznych i Zakładu Ubezpieczeń Zdrowotnych.",
+      "2": "Zatrudnienie cudzoziemców i prawo",
+      "3": "Ministerstwo Pracy i Spraw Socjalnych jest upoważnionym organem koordynującym politykę integracyjną cudzoziemców w PRL. Na swojej oficjalnej stronie internetowej oferuje zapoznanie się z przydatnymi informacjami na temat zatrudnienia cudzoziemców w Czechach. Mimo że warunki zatrudnienia cudzoziemców dla czeskich pracodawców i samych pracowników są bardziej rygorystyczne i złożone, firmy i przedsiębiorcy w Czechach nadal zatrudniają cudzoziemców zarówno z Unii Europejskiej, jak i z krajów trzecich. Podstawą legislacyjną w Republice Czeskiej dla podstawowych warunków zatrudnienia cudzoziemców jest Kodeks Pracy i ustawa o zatrudnieniu. Te i inne powiązane przepisy określają, czy cudzoziemiec będzie potrzebował pozwolenia na pracę i pobyt w Republice Czeskiej, czy też zostanie zatrudniony na prawach obywatela czeskiego.",
+      "4": "Opieka społeczna",
+      "5": "Usługa ta zajmuje się zbieraniem części podatków od ludności i wydawaniem różnego rodzaju świadczeń, na przykład emerytur, macierzyństwa i szpitali. Ona również dystrybuuje fundusze ze skarbu państwa wśród rodzin o niskich dochodach, wypłaca zasiłki dla bezrobotnych i wiele innych. Każdy zatrudniony cudzoziemiec w Czechach ma prawo do wpłaty kaucji w trzech funduszach: szpitalnym, emerytalnym i macierzyńskim, a więc każdy z nas ma prawo do otrzymania tych trzech rodzajów świadczeń. Ten rodzaj podatku dla Ciebie w Czechach płaci pracodawca, z twojego dochodu netto wypłacana jest tylko nieistotna część. Częściowego prawa do zapłaty zastawów na Fundusz Społeczny pozbawione są zagranicznych prywatnych przedsiębiorców, odpowiednio, nie mają prawa później otrzymywać i większość świadczeń, dlatego zazwyczaj zalecamy cudzoziemcom najpierw uzyskać w Czechach status stałego miejsca zamieszkania (stałego pobytu), a dopiero potem wydać licencję jednoosobowego przedsiębiorcy.",
+      "6": "Fundacja Medyczna",
+      "7": "W Czechach istnieje 8 firm ubezpieczeniowych medycznych, które mają status państwowych. Również w kraju działa wiele firm komercyjnych, które świadczą usługi ubezpieczeniowe, w tym Medyczne. Zatrudnieni cudzoziemcy w Czechach mają prawo do państwowego ubezpieczenia zdrowotnego. Takie ubezpieczenie znacznie przewyższa ubezpieczenia handlowe pod każdym względem. Ubezpieczenia rządowe obejmują nie tylko środki zapobiegawcze, badania kontrolne, profilaktykę, leczenie, rehabilitację, wiele leków, ale także leczenie niepłodności i wiele innych kosztownych badań medycznych i leczenia. Płatność ubezpieczenia zdrowotnego w Czechach jest obowiązkowa. Za pełnoetatowego pracownika płaci pracodawca. Jeśli dana osoba nie ma pieniędzy na opłacenie ubezpieczenia, musi dostarczyć dokumenty dotyczące bezrobocia lub zaświadczenie potwierdzające inne przyczyny niewypłacalności, a następnie Państwo zobowiązuje fundusz socjalny do zapłaty za obywatela Czech lub cudzoziemca z długoterminową wizą w Czechach."
+    }
+  }
+}

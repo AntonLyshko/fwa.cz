@@ -1,0 +1,201 @@
+{
+  "Navbar": {
+    "TopNavbar": {
+      "1": "Rufen Sie uns an",
+      "2": "Für den Arbeitgeber"
+    },
+    "1": "Lizenzen",
+    "2": "Partner",
+    "3": "Bewertungen",
+    "4": "Kontakte",
+    "5": "Über uns",
+    "6": "Zusammenfassung",
+    "Btn": "Lebenslauf verlassen"
+  },
+  "Footer": {
+    "1": "Information",
+    "2": "Bewertungen",
+    "3": "Kontakte",
+    "4": "Über uns",
+
+    "Copyright": "Alle Rechte vorbehalten First Work Agency © 2020"
+  },
+  "Firstpage": {
+    "Title": {
+      "1": "Beschäftigung in Europa",
+      "2": "Unsere Hauptaufgabe-wählen Sie die Stelle, die für Sie interessant sein wird, unter Berücksichtigung Ihrer Möglichkeiten und Wünsche, Plus wird Ihnen ein stabiles Einkommen."
+    },
+    "Info": {
+      "1": "Lizenzen und Versicherungen",
+      "2": "Unsere Partner",
+      "btn": "Genauer"
+    },
+    "HowWeWork": {
+      "Title": "WIE WIR ARBEITEN",
+      "1": {
+        "Title": "Zusammenfassung",
+        "Text": "Teilen Sie uns Ihre Erfahrungen und Vorlieben mit, damit wir die besten Jobs für Sie finden können."
+      },
+      "2": {
+        "Title": "Diskussion über Bedingungen",
+        "Text": "Wir werden uns mit Ihnen in Verbindung setzen und über geeignete stellen und Arbeitsbedingungen informieren. Sie wählen den Job, der zu Ihnen passt."
+      },
+      "3": {
+        "Title": "Ein Visum erhalten",
+        "Text": "Wir sammeln für Sie ein komplettes Paket von Dokumenten und begleiten Sie bis zum Visum"
+      },
+      "4": {
+        "Title": "Umzug und Arbeit",
+        "Text": "Wir bieten einen Transfer von Ihrem Land zu Ihrem Arbeitsplatz. Wir helfen Ihnen auch, sich an einem neuen Ort niederzulassen."
+      }
+    },
+    "Review": {
+      "Title": "BEWERTUNGEN",
+      "More": "Lesen Sie weiter",
+      "1": {
+        "Text": "Сотрудничал с этой компанией.Хочу сказать спасибо за доброе отношение и качественное выполнение работы. Мне помогли. Документы мне сделали в поставленные сроки, выехала я в те же даты, что и договаривались.",
+        "Title": "Игорь Темошенко"
+      },
+      "2": {
+        "Text": "Здравствуйте! Оформляла визу здесь, вакансия бесплатная! Менеджеры в агентстве замечательные руководитель агентства очень добродушный человек! Приезжала к ним офис, общались лично, пили чай. По приезду меня встретили, перед подписанием договоров все подробно объяснили и дали всю информацию, даже показали фото с завода. Пакет документов сделали вовремя, и я уже открыла визу, проблем в посольстве не было!",
+        "Title": "Зиновий Григоренко"
+      },
+      "3": {
+        "Text": "Чехию выбирал чтобы достойно зарабатывать. После колледжа долго не мог устроиться на работу у себя в городе.У нас в стране, к сожалению, трудно найти работу без опыта. После недолгих поисков трудоустройства нашел центр. По совету друзей решил поехать на заработки в Европу, так как там отличные зарплаты и условия. Друзья посоветовали эту компанию, я им поверил и ни разу не пожалел. Меня устроили в Чехию , помогли с документами и подобрали комфортный график. Очень благодарен!",
+        "Title": "Людмила Николаевна"
+      },
+      "4": {
+        "Text": "Надежные друзья посоветовали обратиться в эту компанию.\nПоиск места работы, переговоры с работодателем, сбор документов, заполнение анкет, подготовка к посольству — не простое дело. Хотел сделать все правильно. Это важно, потому что допустив ошибку потеряешь кучу времени, нервов и т.п.\nПроцесс прошел удачно, получил визу и уехал в Чехию работать на мясокомбинат. Место мне нашли очень классное! Правильно подготовили к поездке, все рассказали, объяснили условия контракта.\nЧерез некоторое время вернулся домой.\n Когда вдруг решил вернуться в Чехию, то сомнений к кому обратиться не возникло! Опять помогла эта компания. И вот я в Чехии, уже 4 месяца.\n\nСпасибо за проделанную работу! Очень ценю это.\nУспехов всем, кто ищет!",
+        "Title": "Виталий Глушаков"
+      },
+      "5": {
+        "Text": "Здравствуйте! Хочу сказать спасибо за то, что помогли уехать работать в Чехию! Вакансия по деньгам меня устроила и главное, что не надурили. Выплачивали вовремя все и в полном объеме. ",
+        "Title": "Наталья Гольц"
+      },
+      "6": {
+        "Text": "Я сотрудничала с этим агентством. Все нормально сделали,документы были готовы в поставленные сроки, все объяснили и подсказали! Можно сюда обращаться за работой",
+        "Title": "Максим Бакланов"
+      },
+      "Btns": {
+        "1": "Mehr Bewertungen",
+        "2": "Schreiben Sie eine Bewertung"
+      }
+    },
+    "Useful": {
+      "Title": "sachdienliche Information",
+      "1": {
+        "Title": "Ausländerrechte",
+        "Text": "Tschechien ist ein anständiges und Sicheres Europäisches Land. Und für die Einhaltung von Anstand und Sicherheit gibt es eine aufmerksame Polizei und eine Reihe von strengen Regeln."
+      },
+      "2": {
+        "Title": "Bedingungen und Pflichten",
+        "Text": "Ihre Rechte, Bedingungen und Pflichten während der gesamten Zeit der Zusammenarbeit mit uns. Wir empfehlen Ihnen, sich vertraut zu machen"
+      },
+      "Btn": "Weitere nützliche Informationen"
+    }
+  },
+  "Success": {
+    "1": "Danke für die Anmeldung",
+    "2": "Unsere Manager werden sich mit Ihnen in Verbindung setzen, wenn wir eine geeignete Stelle für Sie finden"
+  },
+  "AboutUs": {
+    "Title": "Über uns",
+    "1": "Die erste Arbeitsagentur beschäftigt sich erfolgreich mit der offiziell Beschäftigung von Bürgern in den EU-Ländern. Wir beschäftigen uns nur mit der legalen Beschäftigung. Wir arbeiten mit vielen Arbeitgebern zusammen, die eine große Auswahl an Arbeitsplätzen in verschiedenen Bereichen anbieten. Unsere Hauptaufgabe-wählen Sie die Stelle, die für Sie interessant sein wird, unter Berücksichtigung Ihrer Möglichkeiten und Wünsche, Plus wird Ihnen ein hohes Einkommen. Wir bieten Ihnen ein komplettes Paket von Dokumenten für die Erledigung eines nationalen Visums in die Länder Europas. Das Verfahren zum Erhalt von Dokumenten ist völlig legal und entspricht allen Normen der geltenden Gesetzgebung des gewünschten EU-Landes.",
+    "2": "Ein wichtiger Vorteil unseres Unternehmens ist die garantierte Beschäftigung und das erhalten von Dokumenten für die Einreichung eines Arbeitsvisums, das Ihnen erlaubt, nicht nur in Europa zu Leben und sich zu bewegen, sondern auch legal zu arbeiten, ohne Angst vor Kontrollen der migrationsdienste zu haben. In diesem Zusammenhang bieten wir Ihnen an, die Dokumente auszumachen. Auf denen Sie legal Leben und arbeiten im Land. Die Registrierung eines nationalen Visums nach Europa muss ernsthaft und verantwortungsvoll angegangen werden, um mögliche Fragen zu stellen. Die Praxis zeigt, dass es in den meisten Fällen besser ist, sich an Profis zu wenden, als Fehler zu korrigieren.",
+    "3": "Bei uns erhalten Sie professionelle und schnelle Hilfe bei der Jobsuche. Seit der Kontaktaufnahme mit unserem Unternehmen arbeitet unser Manager mit Ihnen, der Ihnen individuelle Hilfe leistet und den gesamten Prozess der Beschäftigung begleitet: von der Erledigung der Dokumente für das Visum bis zum Umzug an den Arbeitsplatz und die Lösung von wohnungsfragen. Unsere Partner in Ihrem Land werden Ihnen helfen, ein Visum für unsere Dokumente zu erhalten."
+  },
+  "Contacts": {
+    "Input": {
+      "1": "Name",
+      "2": "Email",
+      "3": "Ihre Frage ..."
+    },
+    "Btn": "Senden",
+    "Error": "Füllen Sie alle erforderlichen Felder aus",
+    "Thank": {
+      "1": "Frage gesendet",
+      "2": "unser Manager wird Ihnen bald Antworten"
+    },
+    "Consent": "Durch das senden Stimmen Sie zu Term Of Service und Private Policy",
+    "Title": {
+      "1": "Noch Fragen ?",
+      "2": "Kontakte"
+    }
+  },
+  "Registration": {
+    "Title": "Registrierung",
+    "btn": {
+      "1": "Senden"
+    },
+    "Consent": "Durch das senden Stimmen Sie zu Term Of Service und Private Policy",
+    "Input": {
+      "1": "Name, Nachname",
+      "2": "Das Land",
+      "3": "Geburtsdatum",
+      "4": "Telefonnummer",
+      "5": "Mail",
+      "6": "Arbeitserfahrungen",
+      "7": "Fertigkeiten",
+      "8": "Sprachen",
+      "9": "Ihre Vorlieben"
+    },
+    "Placeholder": {
+      "1": "NAME",
+      "6": "2 Jahre als Schweißer gearbeitet...",
+      "7": "Fahrer der Kategorie C und D",
+      "8": "Englisch auf gesprochener Ebene...",
+      "9": "Хочу работать в доставке"
+    },
+    "Country": {
+      "Title": "Das Land",
+      "1": "Russland",
+      "2": "Ukraine",
+      "3": "Deutschland",
+      "4": "Ukraine",
+      "5": "Polen",
+      "6": "Tschechische Republik"
+    }
+  },
+  "Employer": {
+    "Title": "Ihre freie Stelle",
+    "btn": {
+      "1": "Senden"
+    },
+    "Consent": "Durch das senden Stimmen Sie zu Term Of Service und Private Policy",
+    "Input": {
+      "1": "Name, Nachname",
+      "2": "Das Land",
+      "3": "Geburtsdatum",
+      "4": "Telefonnummer",
+      "5": "Mail",
+      "6": "Arbeitserfahrungen",
+      "7": "Fertigkeiten",
+      "8": "Sprachen",
+      "9": "Ihre Vorlieben"
+    },
+    "Placeholder": {
+      "1": "Name",
+      "6": "2 Jahre als Schweißer gearbeitet...",
+      "7": "Fahrer der Kategorie C und D",
+      "8": "Englisch auf gesprochener Ebene...",
+      "9": "Ich möchte in der Lieferung arbeiten"
+    },
+    "Country": {
+      "Title": "Das Land",
+      "1": "Russland",
+      "2": "Ukraine"
+    }
+  },
+  "rights-of-foreigners": {
+    "title": "Ausländerrechte: ",
+    "text": {
+      "1": "Die Beschäftigung von Ausländern in der Tschechischen Republik wird von Bürokratie begleitet-sowohl für das Unternehmen als auch für den Mitarbeiter selbst. Tschechische Arbeitgeber und Arbeitnehmer müssen sich einfach untereinander einigen (einen Arbeitsvertrag Unterschreiben), danach wird das Unternehmen die Informationen über den neuen Mitarbeiter bei der Sozialversicherungsbehörde und der Krankenkasse Einreichen.",
+      "2": "Beschäftigung von Ausländern und Gesetz",
+      "3": "Das Ministerium für Arbeit und soziale Angelegenheiten ist das zuständige Organ für die Koordinierung der Integrationspolitik von Ausländern in der Tschechischen Republik. Auf seiner offiziellen Website bietet es an, nützliche Informationen über die Beschäftigung von Ausländern in der Tschechischen Republik zu Lesen. Obwohl die Arbeitsbedingungen für Ausländer für Tschechische Arbeitgeber und Mitarbeiter selbst strenger und komplexer sind, nehmen Unternehmen und Unternehmer in Tschechien weiterhin ausländische Staatsangehörige aus der europäischen Union und aus Drittländern an. Die gesetzliche Grundlage in der Tschechischen Republik für die grundlegenden Arbeitsbedingungen von Ausländern ist das Arbeitsgesetzbuch und das beschäftigungsgesetz. Diese und andere begleitende Gesetze bestimmen, ob ein Ausländer eine Arbeits-und Aufenthaltsgenehmigung in der Tschechischen Republik benötigt oder auf die Rechte eines Tschechischen Staatsbürgers eingestellt wird.",
+      "4": "Sozialversicherungsdienst",
+      "5": "Dieser Dienst beschäftigt sich mit der Erhebung von Steuern aus der Bevölkerung und der Ausgabe von verschiedenen Arten von Leistungen, zum Beispiel Renten -, Mutterschafts-und Krankenhausleistungen. Sie verteilt Mittel aus der Staatskasse an einkommensschwache Familien, zahlt Arbeitslosengeld und vieles mehr. Jeder beschäftigte Ausländer in der Tschechischen Republik hat das Recht auf pfandzahlungen in drei Fonds: Krankenhaus, Rente und mutterschaftsdienst, und damit jeder von uns hat das Recht, diese drei Arten von Leistungen zu erhalten. Diese Art der Steuer für Sie in der Tschechischen Republik wird vom Arbeitgeber bezahlt, von Ihrem Nettoeinkommen wird nur ein unbedeutender Teil bezahlt. Ausländische Privatunternehmer sind nicht berechtigt, später die meisten Leistungen zu erhalten, daher empfehlen wir in der Regel, dass Ausländer zuerst in der Tschechischen Republik den Status eines Ständigen Wohnsitzes erhalten und erst dann die Lizenz eines Einzelunternehmers ausstellen.",
+      "6": "Medizinische Stiftung",
+      "7": "In der Tschechischen Republik gibt es 8 Krankenkassen, die den Status des Staates haben. Auch im Land gibt es viele kommerzielle Unternehmen, die Versicherungsdienstleistungen, einschließlich medizinischer. Beschäftigte Ausländer in der Tschechischen Republik haben Anspruch auf Staatliche Krankenversicherung. Eine solche Versicherung weit vor kommerziellen Versicherungen in jeder Hinsicht. Die staatlichen Versicherungen decken nicht nur vorbeugende Behandlungsmaßnahmen, Inspektionen, Prävention, Behandlung, Rehabilitation, viele Medikamente, sondern auch die Behandlung von Unfruchtbarkeit und viele andere teure medizinische Untersuchungen und Behandlungen ab. Die Zahlung der Krankenversicherung in der Tschechischen Republik ist obligatorisch. Für einen vollzeitangestellten wird es vom Arbeitgeber bezahlt. Wenn eine Person kein Geld für die Zahlung der Versicherung hat, muss er Dokumente über die Arbeitslosigkeit oder ein Zertifikat, das andere Gründe der Insolvenz bestätigt, und dann der Staat verpflichtet, den Sozialfonds, um es für einen Tschechischen Staat oder Ausländer mit einem langfristigen Visum in der Tschechischen Republik zu bezahlen."
+    }
+  }
+}

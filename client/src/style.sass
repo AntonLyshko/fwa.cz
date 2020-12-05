@@ -1,0 +1,96 @@
+$bg: #F5F5F5
+$white: #F8F8F8
+$border: #C4C4C4
+$blue: #3364E0
+$blue_act: #4e7df3
+$yellow: #f3b817
+$yellow_act: #fcc93d
+$title: #263843
+$text: #767C82
+$hover:#dddddd
+$active:#e4e4e4
+
+
+@import './styles/media.scss'
+@import './styles/comp/navbar.sass'
+@import './styles/comp/firstpage.sass'
+@import './styles/comp/footer.sass'
+@import './styles/comp/menu-btn.scss'
+@import './styles/comp/sing-up.sass'
+@import './styles/comp/contacts.sass'
+@import './styles/comp/about-us.sass'
+@import './styles/comp/useful.sass'
+@import './styles/comp/reviews.sass'
+@import './styles/comp/blog.sass'
+
+@font-face 
+  font-family: 'Noto Sans'
+  font-style: normal
+  font-weight: 700
+  src: url('./styles/fonts/NotoSans-bold.woff2') format('woff2')
+ 
+@font-face 
+  font-family: 'Noto Sans'
+  font-style: normal
+  font-weight: 600
+  src: url('./styles/fonts/NotoSans-semibold.woff2') format('woff2')
+
+@font-face 
+  font-family: 'Noto Sans'
+  font-style: normal
+  font-weight: 500
+  src: url('./styles/fonts/NotoSans-medium.woff2') format('woff2')
+
+@font-face 
+  font-family: 'Noto Sans'
+  font-style: normal
+  font-weight: 400
+  src: url('./styles/fonts/NotoSans-regular.woff2') format('woff2')
+      
+
+body
+  background: $bg
+  cursor: default
+  font-family: 'Noto Sans', sans-serif
+  color: $text
+  overflow-x: hidden !important
+  &.no-scroll
+    overflow-y: hidden
+
+a
+  color: inherit
+  text-decoration: none
+  &:hover
+    color: inherit
+    text-decoration: none
+
+.container
+  padding-top: 8px
+  max-width: 1200px
+text
+  font-weight: bold
+
+.noselect 
+  -webkit-touch-callout: none
+  -webkit-user-select: none
+  -khtml-user-select: none
+  -moz-user-select: none
+  -ms-user-select: none
+  user-select: none
+
+::-webkit-scrollbar 
+  width: 10px
+
+::-webkit-scrollbar-track 
+  background: $bg
+
+
+::-webkit-scrollbar-thumb 
+  background: $blue
+
+
+::-webkit-scrollbar-thumb:hover
+  background: #555
+
+
+

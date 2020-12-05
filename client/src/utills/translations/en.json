@@ -1,0 +1,207 @@
+{
+  "Navbar": {
+    "TopNavbar": {
+      "1": "Call us",
+      "2": "For the employer"
+    },
+    "1": "Licenses",
+    "2": "Partners",
+    "3": "Reviews",
+    "4": "Contacts",
+    "5": "About us",
+    "6": "Summary",
+    "Btn": "Leave a resume"
+  },
+  "Footer": {
+    "1": "Information",
+    "2": "Reviews",
+    "3": "Contacts",
+    "4": "About us",
+
+    "Copyright": "All rights reserved First Work Agency © 2020"
+  },
+
+  "Firstpage": {
+    "Title": {
+      "1": "Employment in Europe",
+      "2": "Our main task is to find you the job that will be interesting to you, taking into account your capabilities and wishes, plus provide you with a stable income."
+    },
+    "Info": {
+      "1": "Licenses and insurance",
+      "2": "Our partner",
+      "btn": "More"
+    },
+    "HowWeWork": {
+      "Title": "HOW WE WORK",
+      "1": {
+        "Title": "Summary",
+        "Text": "Tell us about your experience and preferences so that we can find the best jobs for you."
+      },
+      "2": {
+        "Title": "Discussion of the conditions",
+        "Text": "We will contact you and tell you about suitable vacancies and working conditions. You choose the job that suits you."
+      },
+      "3": {
+        "Title": "Obtaining visa",
+        "Text": "We collect a full set of documents for you and accompany you to get a visa"
+      },
+      "4": {
+        "Title": "Moving and working",
+        "Text": "We provide a transfer from your country to your place of work. We will also help you settle in a new place."
+      }
+    },
+    "Review": {
+      "Title": "REVIEWS",
+      "More": "Read more",
+      "1": {
+        "Text": "Сотрудничал с этой компанией.Хочу сказать спасибо за доброе отношение и качественное выполнение работы. Мне помогли. Документы мне сделали в поставленные сроки, выехала я в те же даты, что и договаривались.",
+        "Title": "Игорь Темошенко"
+      },
+      "2": {
+        "Text": "Здравствуйте! Оформляла визу здесь, вакансия бесплатная! Менеджеры в агентстве замечательные руководитель агентства очень добродушный человек! Приезжала к ним офис, общались лично, пили чай. По приезду меня встретили, перед подписанием договоров все подробно объяснили и дали всю информацию, даже показали фото с завода. Пакет документов сделали вовремя, и я уже открыла визу, проблем в посольстве не было!",
+        "Title": "Зиновий Григоренко"
+      },
+      "3": {
+        "Text": "Чехию выбирал чтобы достойно зарабатывать. После колледжа долго не мог устроиться на работу у себя в городе.У нас в стране, к сожалению, трудно найти работу без опыта. После недолгих поисков трудоустройства нашел центр. По совету друзей решил поехать на заработки в Европу, так как там отличные зарплаты и условия. Друзья посоветовали эту компанию, я им поверил и ни разу не пожалел. Меня устроили в Чехию , помогли с документами и подобрали комфортный график. Очень благодарен!",
+        "Title": "Людмила Николаевна"
+      },
+      "4": {
+        "Text": "Надежные друзья посоветовали обратиться в эту компанию. Поиск места работы, переговоры с работодателем, сбор документов, заполнение анкет, подготовка к посольству — не простое дело. Хотел сделать все правильно. Это важно, потому что допустив ошибку потеряешь кучу времени, нервов и т.п.\nПроцесс прошел удачно, получил визу и уехал в Чехию работать на мясокомбинат. Место мне нашли очень классное! Правильно подготовили к поездке, все рассказали, объяснили условия контракта.\nЧерез некоторое время вернулся домой.\n Когда вдруг решил вернуться в Чехию, то сомнений к кому обратиться не возникло! Опять помогла эта компания. И вот я в Чехии, уже 4 месяца.\n\nСпасибо за проделанную работу! Очень ценю это.\nУспехов всем, кто ищет!",
+        "Title": "Виталий Глушаков"
+      },
+      "5": {
+        "Text": "Здравствуйте! Хочу сказать спасибо за то, что помогли уехать работать в Чехию! Вакансия по деньгам меня устроила и главное, что не надурили. Выплачивали вовремя все и в полном объеме. ",
+        "Title": "Наталья Гольц"
+      },
+      "6": {
+        "Text": "Я сотрудничала с этим агентством. Все нормально сделали,документы были готовы в поставленные сроки, все объяснили и подсказали! Можно сюда обращаться за работой",
+        "Title": "Максим Бакланов"
+      },
+      "Btns": {
+        "1": "More reviews",
+        "2": "Write a review"
+      }
+    },
+    "Useful": {
+      "Title": "USEFUL INFORMATION",
+      "1": {
+        "Title": "Rights of foreigners",
+        "Text": "The Czech Republic is a decent and safe European country. And for the sake of decency and security, there are attentive police and a set of strict rules."
+      },
+      "2": {
+        "Title": "The conditions and obligations",
+        "Text": "Your rights, conditions and obligations during the entire period of working with us. We recommend that you read it"
+      },
+      "Btn": "More useful information"
+    }
+  },
+  "Success": {
+    "1": "Thank you for registering",
+    "2": "Our managers will contact you when we find a suitable job for you"
+  },
+  "AboutUs": {
+    "Title": "О нас",
+    "1": "First Work Agency is successfully engaged in official employment of citizens in the EU countries. We are only engaged in legal employment. We cooperate with many employers who provide a wide range of jobs in various fields. Our main task is to find you the job that will be interesting to you, taking into account your capabilities and wishes, plus provide you with a high income. We provide you with a full set of documents for obtaining a national visa to Europe. The procedure for obtaining documents is completely legal and meets all the requirements of the current legislation of the desired EU country.",
+    "2": "An important advantage of our company is guaranteed employment and obtaining documents for applying for a work visa, which will allow you not only to live and move around Europe, but also to work legally, without fear of checks by migration services. In this regard, we offer you to issue documents. According to which you can legally live and work in the country. You need to approach the issue of a national visa to Europe seriously and responsibly, and consider possible issues. Practice shows that in most cases it is better to turn to professionals than to correct mistakes.",
+    "3": "Here you will get professional and prompt assistance in finding a job. From the moment you contact our company, our Manager will work with you, who will provide you with individual assistance and will accompany the entire employment process: from processing documents for obtaining a visa to moving to a place of work and solving housing issues. Our partners in your country will help you get a visa using our documents."
+  },
+  "Contacts": {
+    "Input": {
+      "1": "Name",
+      "2": "Email",
+      "3": "Your question ..."
+    },
+    "Btn": "Send",
+    "Error": "Fill in all required fields",
+    "Thank": {
+      "1": "Question sent",
+      "2": "our Manager will respond to you soon"
+    },
+    "Consent": "By submitting you agree to Term Of Service and Private Policy",
+    "Title": {
+      "1": "I still have questions ?",
+      "2": "Contacts"
+    }
+  },
+  "Registration": {
+    "Title": "Registration",
+    "btn": {
+      "1": "Send"
+    },
+    "Consent": "By submitting you agree to Term Of Term Of Service and Private Policy",
+    "Input": {
+      "1": "Name, Surname",
+      "2": "A country",
+      "3": "Date of birth",
+      "4": "phone number",
+      "5": "Mail",
+      "6": "Work experience",
+      "7": "Skills",
+      "8": "Languages",
+      "9": "Your preference"
+    },
+    "Placeholder": {
+      "1": "FCS",
+      "6": "Worked as a welder for 2 years...",
+      "7": "The driver of a category C and D",
+      "8": "English at a conversational level...",
+      "9": "I want to work in delivery"
+    },
+    "Country": {
+      "Title": "A country",
+      "1": "Russia",
+      "2": "Ukraine",
+      "3": "Germany",
+      "4": "Ukraine",
+      "5": "Poland",
+      "6": "Czech Republic"
+    }
+  },
+  "Employer": {
+    "Input": {
+      "1": "Company name",
+      "2": "Vacancy",
+      "3": "Description of the vacancies"
+    },
+    "Title": "Your vacancy",
+    "btn": {
+      "1": "Send"
+    }
+  },
+  "Consent": "By submitting you agree to Term Of Service and Private Policy",
+  "Input": {
+    "1": "Name, Surname",
+    "2": "A country",
+    "3": "Date of birth",
+    "4": "phone number",
+    "5": "Mail",
+    "6": "Work experience",
+    "7": "Skills",
+    "8": "Languages",
+    "9": "Your preference"
+  },
+  "Placeholder": {
+    "1": "FCS",
+    "6": "Worked as a welder for 2 years...",
+    "7": "The driver of a category C and D",
+    "8": "English at a conversational level...",
+    "9": "I want to work in delivery"
+  },
+  "Country": {
+    "Title": "A country",
+    "1": "Russia",
+    "2": "Ukraine"
+  },
+  "rights-of-foreigners": {
+    "title": "Rights of foreigners: ",
+    "text": {
+      "1": "Employment of foreigners in the Czech Republic is accompanied by bureaucracy-both for the company and for the employee. Czech employers and employees simply need to agree between themselves (sign an employment contract), after which the company will submit information about the new employee to the social insurance office and the health insurance company.",
+      "2": "Employment of foreigners and the law",
+      "3": "The Ministry of labor and social Affairs is the authorized body for coordinating the integration policy of foreigners in the Czech Republic. On its official website it offers to get acquainted with useful information on the employment of foreign citizens in the Czech Republic. Despite the fact that the employment conditions for foreigners for Czech employers and employees themselves are more strict and complex, companies and entrepreneurs in the Czech Republic continue to employ foreign citizens from both the European Union and third countries. The legal framework in the CR for the main conditions of employment of foreigners is the Labor code and the employment Law. These and other related laws determine whether a foreigner will need a work and residence permit in the Czech Republic or will be accepted as a Czech citizen.",
+      "4": "Welfare service",
+      "5": "This service collects part of the taxes from the population and issues various types of benefits, such as pension, maternity and hospital benefits. It also distributes funds from the state Treasury to low-income families, pays unemployment benefits, and much more. Every employed foreigner in the Czech Republic has the right to make collateral payments to three funds: hospital, pension and maternity, which means that each of us has the right to receive these three types of benefits. This type of tax is paid for you in the Czech Republic by your employer, and only an insignificant part of your net earnings is paid. Foreign private entrepreneurs do not have a partial right to pay deposits to the Social Fund, so they do not have the right to receive most of the benefits later, so we usually recommend that foreigners first obtain Permanent residence status in the Czech Republic (permanent residence) and only then apply for an individual entrepreneur's license.",
+      "6": "Medical Foundation",
+      "7": "There are 8 health insurance companies in the Czech Republic that have the status of state-owned. There are also many commercial companies in the country that provide insurance services, including medical services. Employed foreigners in the Czech Republic are entitled to state health insurance. This insurance is significantly ahead of commercial insurance in all respects. State insurance covers not only preventive treatment, examinations, prevention, treatment, rehabilitation, many medications, but also infertility treatment and many other expensive medical examinations and treatment. Payment for medical insurance in the Czech Republic is mandatory. For a full-time employee, it is paid by the employer. If a person does not have money to pay for insurance, they must provide unemployment documents or a certificate confirming other reasons for insolvency, and then the state will oblige the Social Fund to pay for it for a Czech citizen or a foreigner with a long-term visa in the Czech Republic."
+    }
+  }
+}

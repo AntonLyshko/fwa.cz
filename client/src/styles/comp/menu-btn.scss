@@ -1,0 +1,122 @@
+$buttonWidth: 40px;
+$buttonHeight: 32px; 
+$buttonColor: #F5F5F5;
+$lineThickness: 4px;
+$transitionSpeed: .25s;
+$transitionEasing: ease;
+
+// Demo
+.menu-toggle {
+  position: relative;
+  display: inline-block;
+  border: none;
+  width: $buttonWidth;
+  height: $buttonHeight;
+  outline: none;
+  background: transparent;
+  border-top: $lineThickness solid;
+  border-bottom: $lineThickness solid;
+  color: $buttonColor;
+  font-size: 0;
+  
+  transition: all $transitionSpeed $transitionEasing;
+  &:focus{
+    outline: none;
+  }
+  &:active{
+    outline: none;
+  }
+  &:hover{
+    outline: none;
+  }
+  &:before,
+  &:after {
+    content: '';
+    display: block;
+    width: 100%;
+    height: $lineThickness;
+    
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    
+    background: currentColor;
+    
+    transform: translate(-50%, -50%);
+    transition: transform $transitionSpeed $transitionEasing;
+  } 
+}
+
+.menu-toggle:hover {
+  color: lighten($buttonColor, 15%);
+}
+
+
+.menu-toggle.act {
+  border-color: transparent;
+
+  &:before {
+    transform: translate(-50%, -50%) rotate(45deg);
+  }
+
+  &:after {
+    transform: translate(-50%, -50%) rotate(-45deg);
+  }
+}
+
+.menu-toggle-blue {
+  position: relative;
+  display: inline-block;
+  border: none;
+  width: $buttonWidth;
+  height: $buttonHeight;
+  outline: none;
+  background: transparent;
+  border-top: $lineThickness solid;
+  border-bottom: $lineThickness solid;
+  color: #3364E0;
+  font-size: 0;
+  
+  transition: all $transitionSpeed $transitionEasing;
+  &:focus{
+    outline: none;
+  }
+  &:active{
+    outline: none;
+  }
+  &:hover{
+    outline: none;
+  }
+  &:before,
+  &:after {
+    content: '';
+    display: block;
+    width: 100%;
+    height: $lineThickness;
+    
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    
+    background: currentColor;
+    
+    transform: translate(-50%, -50%);
+    transition: transform $transitionSpeed $transitionEasing;
+  } 
+}
+
+.menu-toggle-blue:hover {
+  color: lighten(#3364E0, 15%);
+}
+
+
+.menu-toggle-blue.act {
+  color: #f5f5f5;
+  border-color: transparent;
+  &:before {
+    transform: translate(-50%, -50%) rotate(45deg);
+  }
+  &:after {
+    transform: translate(-50%, -50%) rotate(-45deg);
+  }
+}
